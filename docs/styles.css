@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/* Application-wide Styles */
+
+
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+
+h2,
+h3 {
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+
+body {
+    margin: 2em;
+}
+
+
+body,
+input[type="text"],
+button {
+    color: #333;
+    font-family: Cambria, Georgia;
+}
+
+
+/* everywhere else */
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsOEVBQThFOzs7QUFHOUUsNEJBQTRCOzs7QUFFNUI7SUFDSSxXQUFXO0lBQ1gseUNBQXlDO0lBQ3pDLGVBQWU7QUFDbkI7OztBQUVBOztJQUVJLFdBQVc7SUFDWCx5Q0FBeUM7SUFDekMsb0JBQW9CO0FBQ3hCOzs7QUFFQTtJQUNJLFdBQVc7QUFDZjs7O0FBRUE7OztJQUdJLFdBQVc7SUFDWCw2QkFBNkI7QUFDakM7OztBQUdBLG9CQUFvQjs7O0FBRXBCO0lBQ0kseUNBQXlDO0FBQzdDIiwiZmlsZSI6InN0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBZb3UgY2FuIGFkZCBnbG9iYWwgc3R5bGVzIHRvIHRoaXMgZmlsZSwgYW5kIGFsc28gaW1wb3J0IG90aGVyIHN0eWxlIGZpbGVzICovXG5cblxuLyogQXBwbGljYXRpb24td2lkZSBTdHlsZXMgKi9cblxuaDEge1xuICAgIGNvbG9yOiAjMzY5O1xuICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmO1xuICAgIGZvbnQtc2l6ZTogMjUwJTtcbn1cblxuaDIsXG5oMyB7XG4gICAgY29sb3I6ICM0NDQ7XG4gICAgZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7XG4gICAgZm9udC13ZWlnaHQ6IGxpZ2h0ZXI7XG59XG5cbmJvZHkge1xuICAgIG1hcmdpbjogMmVtO1xufVxuXG5ib2R5LFxuaW5wdXRbdHlwZT1cInRleHRcIl0sXG5idXR0b24ge1xuICAgIGNvbG9yOiAjMzMzO1xuICAgIGZvbnQtZmFtaWx5OiBDYW1icmlhLCBHZW9yZ2lhO1xufVxuXG5cbi8qIGV2ZXJ5d2hlcmUgZWxzZSAqL1xuXG4qIHtcbiAgICBmb250LWZhbWlseTogQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjtcbn0iXX0= */
+
+/*# sourceMappingURL=styles.css.map*/
